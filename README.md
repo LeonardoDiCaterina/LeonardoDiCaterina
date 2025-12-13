@@ -120,9 +120,3 @@ I'm particularly interested in adaptive evolutionary algorithms that can modify 
 ## Let's Connect
 
 I'm always interested in discussing evolutionary computation, JAX development, deep learning architectures, and functional programming approaches to scientific computing. Whether you're working on similar problems, have questions about my projects, or want to collaborate on research, feel free to reach out through GitHub or LinkedIn. I'm particularly eager to connect with others exploring the intersection of evolutionary algorithms and modern machine learning frameworks.
-
----
-
-<p align="center">
-  <i>"The best way to predict the future is to invent it through evolution and learning."</i>
-</p>
