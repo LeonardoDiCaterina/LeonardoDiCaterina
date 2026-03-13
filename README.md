@@ -21,32 +21,7 @@ What drives my work is the challenge of creating frameworks and models that are 
 
 Through my academic projects and personal work, I've developed expertise in implementing complex algorithms from scratch, designing extensible software architectures, and tackling challenging machine learning problems involving noisy data and class imbalance. I'm continuously improving my skills in JAX and exploring how its functional programming paradigm can unlock new possibilities in evolutionary computation and neural network design.
 
----
-
-## Featured Projects
-
-### 🧬 MalthusJAX - Evolutionary Computation Framework
-A production-grade evolutionary computation framework built entirely in JAX, featuring a modular three-level architecture that separates genome representations, genetic operators, and evolution engines. The framework emphasizes functional purity and JIT compilation compatibility, enabling researchers to implement sophisticated adaptive algorithms while maintaining full performance optimization. MalthusJAX demonstrates my commitment to building extensible, type-safe systems that give users complete control over the evolutionary process.
-
-**Key Technologies:** JAX, Flax, Functional Programming, Type Systems, JIT Compilation
-
-### 🦁 Deep Learning for Animal Species Recognition
-A comprehensive deep learning project that addresses the challenging problem of fine-grained image classification across 202 animal families using over 9,500 web-scraped images. This work tackles real-world challenges including extreme class imbalance, label noise, and variable image quality. Through systematic experimentation with ResNet50, MobileNetV2, and VGG19 architectures, combined with transfer learning and careful hyperparameter optimization, the project demonstrates how to extract meaningful performance from noisy, uncurated datasets.
-
-**Key Technologies:** TensorFlow, Keras, CNNs, Transfer Learning, Computer Vision
-
-### 🧠 Neural and Evolutionary Learning Benchmarking
-A rigorous comparative study benchmarking five distinct machine learning approaches on a biological regression task. The project compares three Genetic Programming variants (Standard GP, GSGP, SLIM-GSGP) against two Neural Network approaches (Standard NN and NEAT) using nested cross-validation. The research provides insights into the relative strengths of evolutionary computation versus gradient-based methods, with particular attention to model generalization and computational efficiency.
-
-**Key Technologies:** Python, SLIM Library, NEAT, Neural Networks, Statistical Analysis
-
-### 🚗 Cars 4 You - Machine Learning for Price Prediction
-An applied machine learning project developing regression models to predict car prices for an online resale company. The project implements a complete pipeline from exploratory data analysis through model optimization, comparing multiple regression approaches to identify the most effective solution for expediting vehicle evaluations. The work demonstrates practical skills in feature engineering, model benchmarking, and deployment considerations for business applications.
-
-**Key Technologies:** Python, Scikit-learn, Regression Modeling, Feature Engineering
-
----
-
+--- 
 ## Technical Skills
 
 ### Programming Languages & Frameworks
