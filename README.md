@@ -1,6 +1,6 @@
 # Leonardo Di Caterina
 
-I build high-performance ML systems in JAX. Currently finishing a Master's in
+Currently finishing a Master's in
 Data Science at Nova IMS Lisbon, with a background in Engineering Physics from
 Politecnico di Milano.
 
